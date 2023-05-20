@@ -16,6 +16,8 @@ else
 - ```python PATH/To/repositry/kiv/kivshell.py```
 # Future 🔮
 this is sll a beta version meaning not all binaries are found very few buildin functions and libraries and bad perfermonce hopefully all if this will be fixed in kiv v2
+# vscode
+kiv (folder that is in vscode folder) in .vscode for syntax highlighting 
 # Syntax
 # Comments
 Can be at start of line or end
